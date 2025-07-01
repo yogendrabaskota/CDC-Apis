@@ -31,8 +31,8 @@ It provides endpoints to get textbook URLs and redirect directly to the PDFs.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/nepal-cdc-textbooks-api-ts.git
-cd nepal-cdc-textbooks-api-ts
+git clone https://github.com/yogendrabaskota/CDCbooks.git
+cd CDCbook
 
 npm install
 
@@ -118,5 +118,7 @@ curl -L http://localhost:5000/api/books/redirect/9/science_nepali
 
 ## Feedback
   If you have any feedback, please reach out to me at yogendrabaskota18@gmail.com  
+
+
 
 
