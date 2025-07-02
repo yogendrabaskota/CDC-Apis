@@ -17,6 +17,8 @@ It provides endpoints to get textbook URLs and redirect directly to the Textbook
 
 ---
 
+## Backend is live at [https://cdc-apis.onrender.com](https://cdc-apis.onrender.com)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -51,11 +53,15 @@ npm start
 ## 🛠 API Endpoints Documentation
 
 ### Base URL
+```https
+https://cdc-apis.onrender.com
+
+```
 
 ### 1. Get Book Link
 #### Endpoint:
 
-```
+```https
 GET /api/books/:class/:subject
 ```
 
@@ -92,7 +98,7 @@ or if multiple books exist:
 ### 2. Redirect to Book
 #### Endpoint:
 
-```
+```https
 GET /api/books/redirect/:class/:subject
 ```
 #### Description:
