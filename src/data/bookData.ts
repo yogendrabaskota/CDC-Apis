@@ -1,34 +1,34 @@
 const books: Record<string, Record<string, string | string[]>> = {
   "1": {
-    nepali: "https://moecdc.gov.np/storage/gallery/1704094300.pdf",
-    english: "https://moecdc.gov.np/storage/gallery/1672307877.pdf",
-    math_nepali: "https://moecdc.gov.np/storage/gallery/1672308310.pdf",
+    nepali: "https://moecdc.gov.np/storage/gallery/1726652577.pdf",
+    english: "https://moecdc.gov.np/storage/gallery/1726652483.pdf",
+    math_nepali: "https://moecdc.gov.np/storage/gallery/1686564673.pdf",
     math_english: "https://moecdc.gov.np/storage/gallery/1708925298.pdf",
-    serofero: "https://moecdc.gov.np/storage/gallery/1672308652.pdf"
+    serofero: "https://moecdc.gov.np/storage/gallery/1733738808.pdf"
   },
   "2": {
-    nepali: "https://moecdc.gov.np/storage/gallery/1672633608.pdf",
-    english: "https://moecdc.gov.np/storage/gallery/1672556083.pdf",
-    math_nepali: "https://moecdc.gov.np/storage/gallery/1672567946.pdf",
+    nepali: "https://moecdc.gov.np/storage/gallery/1726590635.pdf",
+    english: "https://moecdc.gov.np/storage/gallery/1726627497.pdf",
+    math_nepali: "https://moecdc.gov.np/storage/gallery/1686565095.pdf",
     math_english: "https://moecdc.gov.np/storage/gallery/1708852295.pdf",
-    serofero: "https://moecdc.gov.np/storage/gallery/1682058190.pdf"
+    serofero: "https://moecdc.gov.np/storage/gallery/1726575230.pdf"
   },
   "3": {
-    nepali: "https://moecdc.gov.np/storage/gallery/1672633680.pdf",
-    english: "https://moecdc.gov.np/storage/gallery/1672633746.pdf",
-    math_nepali: "https://moecdc.gov.np/storage/gallery/1672633791.pdf",
+    nepali: "https://moecdc.gov.np/storage/gallery/1726590635.pdf",
+    english: "https://moecdc.gov.np/storage/gallery/1726591370.pdf",
+    math_nepali: "https://moecdc.gov.np/storage/gallery/1726589896.pdf",
     math_english: "https://moecdc.gov.np/storage/gallery/1708924606.pdf",
     serofero: "https://moecdc.gov.np/storage/gallery/1672633882.pdf"
   },
   "4": {
-    nepali: "https://moecdc.gov.np/storage/gallery/1681727544.pdf",
-    english: "https://moecdc.gov.np/storage/gallery/1681728172.pdf",
-    math_nepali: "https://moecdc.gov.np/storage/gallery/1681727585.pdf",
-    math_english: "https://moecdc.gov.np/storage/gallery/1708926663.pdf",
-    social: "https://moecdc.gov.np/storage/gallery/1681727636.pdf",
-    science_nepali: "https://moecdc.gov.np/storage/gallery/1681728702.pdf",
+    nepali: "https://moecdc.gov.np/storage/gallery/1726582855.pdf",
+    english: "https://moecdc.gov.np/storage/gallery/1726580650.pdf",
+    math_nepali: "https://moecdc.gov.np/storage/gallery/1726581160.pdf",
+    math_english: "https://moecdc.gov.np/storage/gallery/1730103152.pdf",
+    social: "https://moecdc.gov.np/storage/gallery/1726582277.pdf",
+    science_nepali: "https://moecdc.gov.np/storage/gallery/1726580186.pdf",
     science_english: "https://moecdc.gov.np/storage/gallery/1704704471.pdf",
-    health_nepali: "https://moecdc.gov.np/storage/gallery/1681792950.pdf",
+    health_nepali: "https://moecdc.gov.np/storage/gallery/1726576317.pdf",
     health_english: "https://moecdc.gov.np/storage/gallery/1704704216.pdf"
   },
   "5": {
@@ -42,8 +42,8 @@ const books: Record<string, Record<string, string | string[]>> = {
     health_nepali: "https://moecdc.gov.np/storage/gallery/1682061955.pdf"
   },
   "6": {
-    nepali: "https://moecdc.gov.np/storage/gallery/1672799748.pdf",
-    english: "https://moecdc.gov.np/storage/gallery/1672799804.pdf",
+    nepali: "",
+    english: "",
     math_nepali: "https://moecdc.gov.np/storage/gallery/1672799879.pdf",
     math_english: "https://moecdc.gov.np/storage/gallery/1708925838.pdf",
     science_nepali: "https://moecdc.gov.np/storage/gallery/1672799965.pdf",
@@ -88,6 +88,7 @@ const books: Record<string, Record<string, string | string[]>> = {
   },
   "10": {
     nepali: "https://moecdc.gov.np/storage/gallery/1681370216.pdf",
+    computer_science : "http://lib.moecdc.gov.np/elibrary/pages/download.php?direct=1&noattach=true&ref=3667&ext=pdf",
     english: "https://moecdc.gov.np/storage/gallery/1681716079.pdf",
     math_nepali: "https://moecdc.gov.np/storage/gallery/1681715186.pdf",
     math_english: "https://moecdc.gov.np/storage/gallery/1687066510.pdf",
@@ -100,7 +101,8 @@ const books: Record<string, Record<string, string | string[]>> = {
       "https://moecdc.gov.np/storage/gallery/1687942336.pdf",
       "https://moecdc.gov.np/storage/gallery/1688286170.pdf"
     ],
-    social: "https://moecdc.gov.np/storage/gallery/1710845068.pdf"
+    social: "https://moecdc.gov.np/storage/gallery/1710845068.pdf",
+    optional_math : "http://lib.moecdc.gov.np/elibrary/pages/download.php?direct=1&noattach=true&ref=3883&ext=pdf"
   }
 };
 
