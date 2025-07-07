@@ -17,6 +17,20 @@ It provides endpoints to get textbook URLs and redirect directly to the Textbook
 
 ---
 
+## Copyright Notice
+
+All educational materials / APIs provided on this repo are:
+
+- Property of CDC-Nepal and the Ministry of Education, Science and Technology, Nepal
+- Protected under the Copyright Act of Nepal
+- For educational use only
+
+#### Unauthorized reproduction or distribution is strictly prohibited.
+
+---
+
+
+
 ## Backend is live at [https://cdc-apis.onrender.com](https://cdc-apis.onrender.com)
 
 ## 🚀 Getting Started
